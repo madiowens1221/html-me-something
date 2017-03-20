@@ -1,0 +1,59 @@
+html {
+	font-family:Century Gothic;
+}
+
+body {
+	width: 100%;
+	max-width: 1000px;
+	margin:auto;
+	background-color:#ffe6cc;
+	font-size: 15px;
+}
+
+header, 
+footer{
+	background-color:#ffb399;
+	text-shadow: 2px 2px #ff8c66;
+}
+
+header {
+	padding: 1em 0;
+	text-align: center;
+}
+
+h2 {
+	text-shadow:2px 2px #ffc180;
+}
+
+table {
+	background-color: #ff9999;
+	float: center;
+	margin-right: 100px;
+	margin-left: 100px;
+
+}
+
+td {
+	height: 500px;
+	width: 1000px;
+}
+
+td img {
+	height: 400px;
+	width: 400px;
+	border: 2px solid #ff6666;
+}
+
+img {
+	height:550px;
+	width: 900px;
+	border: 5px dotted #ff6666;
+}
+
+a:hover {
+	color:#ffbf00;
+}
+
+figcaption {
+	text-align: center;
+}
