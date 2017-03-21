@@ -10,18 +10,18 @@ body {
 	font-size: 15px;
 }
 
-header, 
+header,
 footer{
 	background-color:#ffb399;
 	text-shadow: 2px 2px #ff8c66;
 }
 
-header {
+.myclass {
 	padding: 1em 0;
 	text-align: center;
 }
 
-h2 {
+#myid {
 	text-shadow:2px 2px #ffc180;
 }
 
